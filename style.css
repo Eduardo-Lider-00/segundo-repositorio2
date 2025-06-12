@@ -24,7 +24,7 @@ body {
     background-color: beige;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(20% - 2rem; /* 5 cartôes por linha */
+    flex-basis: calc(20% - 2rem);
 }
 
 .cartao__conteudo {
